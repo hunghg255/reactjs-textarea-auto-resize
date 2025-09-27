@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.npmjs.com/package/reactjs-textarea-auto-resize" target="_blank" rel="noopener noreferrer">
-<img src="https://api.iconify.design/bi:textarea-resize.svg" alt="logo" width='100'/></a>
+<img src="https://api.iconify.design/bi:textarea-resize.svg?color=%238a7aff" alt="logo" width='100'/></a>
 </p>
 
 <p align="center">
